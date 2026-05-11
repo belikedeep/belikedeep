@@ -1,13 +1,24 @@
-# Deepak Mardi
-Full-stack engineer from Bilaspur, India. IIT Kharagpur. Building remote, building in public.
-I turn ideas into working software — from database to UI.
+# Hi, I'm Deepak 👋
+
+I'm a Software Engineer focused on backend systems, distributed architecture, and building resilient developer tools. 
+
+### 🛠 Core Competencies
+- **Languages:** Go, TypeScript/Node.js, Python, Rust (learning)
+- **Architecture:** Microservices, High-throughput systems, Real-time APIs (WebSockets), Caching strategies
+- **Domains:** AI Infrastructure, Developer Tooling, SaaS Platforms
+
+### 🚀 Highlighted Work
+- **[Kenbun](https://github.com/belikedeep/Kenbun):** Built a high-throughput LLM control plane in Go to handle distributed AI workloads.
+- **[MicroMart](https://github.com/belikedeep/MicroMart):** Architected a scalable e-commerce platform using distributed microservices.
+- **[Caching Proxy](https://github.com/belikedeep/caching-proxy-server):** Developed a concurrent, thread-safe proxy server in Go.
 
 ---
 
-chess player. stargazer. convinced Napoleon Hill was onto something.
+### 🌐 Connect with me
+- **LinkedIn:** [deepakmardi](https://www.linkedin.com/in/deepakmardi/)
+- **Email:** [deepakmardi22@gmail.com](mailto:deepakmardi22@gmail.com)
+- **Portfolio:** [iamdeepakmardi.xyz](https://iamdeepakmardi.xyz)
 
-If you wish to get in touch with me, shoot me a message on my [LinkedIn page](https://www.linkedin.com/in/deepakmardi/) or drop me an email at [deepakmardi22@gmail.com](mailto:deepakmardi22@gmail.com)!
+---
 
-Or visit my portfolio at [iamdeepakmardi.xyz](https://iamdeepakmardi.xyz) • [Resume](https://drive.google.com/file/d/14X0d87JALsho34un1mgfnoB-Mq4i45Rh/view)
-
-![](https://komarev.com/ghpvc/?username=belikedeep&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=belikedeep&color=blue)
